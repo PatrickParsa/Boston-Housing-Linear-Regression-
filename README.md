@@ -1,6 +1,10 @@
 # Boston-Housing-Linear-Regression-
 
+![Screen Shot 2021-12-07 at 1 15 01 PM](https://user-images.githubusercontent.com/88220704/145091789-dc86e29b-668e-47c7-8f01-bc015a79d97c.png)
+
 ## Summary
+
+
 
 In this project, we first did EDA on the dataset and did initial visual analysis on the variables including both univariate and bivariate analysis. We then checked for the assumptions of linear regression to make sure our data is fit for model building. We then ran our linear regression model on the data and observed the results, after which we dropped variables that were not significant and examined the changes in the R-Squared variable. We then finally obtained our regression equation which is displayed at the bottom of this page. 
 
